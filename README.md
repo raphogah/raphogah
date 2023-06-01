@@ -1,4 +1,4 @@
-👋 Hi, I’m Raphael O. Ajah, a Web 3 DExperience Developer
+👋 Hi, I’m Raphael O. Ajah, a Web 3 Experience Developer
 💼 Web 3 Experience Developer
 🏢 Uppr Technologies
 📍 Lagos, Nigeria 
