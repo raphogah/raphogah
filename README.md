@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Raphael O. Ajah, a Product and Design Lead.
-- 💼 Product and Design Lead
-- 🏢 Uppr Technologies, Brit Properties
-- 📍 Lagos, Nigeria
-- Web3 & Startups 🌐 | Products & People 👥 | Real Estate & Investments 🏘️
- 	
-- My work revolves around creating unique & meaningful experiences within the realms of design, Web 3 and creative technology, for a variety of brands & clients as I help build pixel perfect and marketable Products.
+👋 Hi, I’m Raphael O. Ajah, a Web 3 DExperience Developer
+💼 Web 3 Experience Developer
+🏢 Uppr Technologies
+📍 Lagos, Nigeria 
 
-- 📫 You can reach me on +2349064945445 or ajahraphaelogah@gmail.com
+ 
+My work revolves around leveraging decentralized technologies to build immersive, engaging and innovative applications and systems that can transform the way we interact with digital data and assets.
+
+Whether working on a decentralized platform, or an immersive Web 3 game, I am always looking for ways to push the boundaries of what is possible and create innovative solutions that offer unique and engaging experiences for users.
+
+📫 You can reach me on +2349064945445 or ajahraphaelogah@gmail.com
 
 <!---
 Arafodence/Arafodence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
