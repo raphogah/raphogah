@@ -10,7 +10,7 @@ Whether working on a decentralized platform, or an immersive Web 3 game, I am al
 ---
 📫 You can reach me on +2349064945445 or ajahraphaelogah@gmail.com
 ---
-(https://github-readme-streak-stats.herokuapp.com?user=raphogah)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raphogah)](https://git.io/streak-stats)
 
 <!---
 Arafodence/Arafodence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
